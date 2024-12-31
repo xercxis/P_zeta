@@ -1,2 +1,2 @@
 # P_zeta
-This repository contains the implementation and testing code of our paper: Topological or Non-topological? A Deep Learning Based Prediction
+The implementation code and testing dataset of the article "A machine learning based classifier for topological quantum materials" will be published in this repository.
